@@ -1,0 +1,5488 @@
+./dd_omp 1 1 1 aligandstring
+max_ligand=1 nligands=1 nthreads=1 OMP defined maximal score is 0, achieved by ligands w
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_omp 1 1 2 aligandstring
+max_ligand=1 nligands=1 nthreads=2 OMP defined maximal score is 0, achieved by ligands w
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 1 1 3 aligandstring
+max_ligand=1 nligands=1 nthreads=3 OMP defined maximal score is 0, achieved by ligands w
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 1 1 4 aligandstring
+max_ligand=1 nligands=1 nthreads=4 OMP defined maximal score is 0, achieved by ligands w
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_omp 1 1 5 aligandstring
+max_ligand=1 nligands=1 nthreads=5 OMP defined maximal score is 0, achieved by ligands w
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_omp 1 1 6 aligandstring
+max_ligand=1 nligands=1 nthreads=6 OMP defined maximal score is 0, achieved by ligands w
+
+real	0m0.012s
+user	0m0.001s
+sys	0m0.012s
+  
+  
+./dd_omp 1 1 7 aligandstring
+max_ligand=1 nligands=1 nthreads=7 OMP defined maximal score is 0, achieved by ligands w
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 1 2 1 aligandstring
+max_ligand=1 nligands=2 nthreads=1 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.012s
+user	0m0.001s
+sys	0m0.011s
+  
+  
+./dd_omp 1 2 2 aligandstring
+max_ligand=1 nligands=2 nthreads=2 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.010s
+  
+  
+./dd_omp 1 2 3 aligandstring
+max_ligand=1 nligands=2 nthreads=3 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.012s
+  
+  
+./dd_omp 1 2 4 aligandstring
+max_ligand=1 nligands=2 nthreads=4 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.010s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_omp 1 2 5 aligandstring
+max_ligand=1 nligands=2 nthreads=5 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.013s
+user	0m0.005s
+sys	0m0.010s
+  
+  
+./dd_omp 1 2 6 aligandstring
+max_ligand=1 nligands=2 nthreads=6 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_omp 1 2 7 aligandstring
+max_ligand=1 nligands=2 nthreads=7 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.010s
+user	0m0.006s
+sys	0m0.006s
+  
+  
+./dd_omp 1 3 1 aligandstring
+max_ligand=1 nligands=3 nthreads=1 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.009s
+  
+  
+./dd_omp 1 3 2 aligandstring
+max_ligand=1 nligands=3 nthreads=2 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 1 3 3 aligandstring
+max_ligand=1 nligands=3 nthreads=3 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.012s
+user	0m0.017s
+sys	0m0.001s
+  
+  
+./dd_omp 1 3 4 aligandstring
+max_ligand=1 nligands=3 nthreads=4 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 1 3 5 aligandstring
+max_ligand=1 nligands=3 nthreads=5 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 1 3 6 aligandstring
+max_ligand=1 nligands=3 nthreads=6 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.010s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 1 3 7 aligandstring
+max_ligand=1 nligands=3 nthreads=7 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_omp 1 4 1 aligandstring
+max_ligand=1 nligands=4 nthreads=1 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.013s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 1 4 2 aligandstring
+max_ligand=1 nligands=4 nthreads=2 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 1 4 3 aligandstring
+max_ligand=1 nligands=4 nthreads=3 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 1 4 4 aligandstring
+max_ligand=1 nligands=4 nthreads=4 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_omp 1 4 5 aligandstring
+max_ligand=1 nligands=4 nthreads=5 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 1 4 6 aligandstring
+max_ligand=1 nligands=4 nthreads=6 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_omp 1 4 7 aligandstring
+max_ligand=1 nligands=4 nthreads=7 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.014s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_omp 1 5 1 aligandstring
+max_ligand=1 nligands=5 nthreads=1 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.010s
+  
+  
+./dd_omp 1 5 2 aligandstring
+max_ligand=1 nligands=5 nthreads=2 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_omp 1 5 3 aligandstring
+max_ligand=1 nligands=5 nthreads=3 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.010s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 1 5 4 aligandstring
+max_ligand=1 nligands=5 nthreads=4 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_omp 1 5 5 aligandstring
+max_ligand=1 nligands=5 nthreads=5 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 1 5 6 aligandstring
+max_ligand=1 nligands=5 nthreads=6 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_omp 1 5 7 aligandstring
+max_ligand=1 nligands=5 nthreads=7 OMP defined maximal score is 1, achieved by ligands r
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 1 6 1 aligandstring
+max_ligand=1 nligands=6 nthreads=1 OMP defined maximal score is 1, achieved by ligands r d
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_omp 1 6 2 aligandstring
+max_ligand=1 nligands=6 nthreads=2 OMP defined maximal score is 1, achieved by ligands r d
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_omp 1 6 3 aligandstring
+max_ligand=1 nligands=6 nthreads=3 OMP defined maximal score is 1, achieved by ligands r d
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_omp 1 6 4 aligandstring
+max_ligand=1 nligands=6 nthreads=4 OMP defined maximal score is 1, achieved by ligands r d
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_omp 1 6 5 aligandstring
+max_ligand=1 nligands=6 nthreads=5 OMP defined maximal score is 1, achieved by ligands r d
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 1 6 6 aligandstring
+max_ligand=1 nligands=6 nthreads=6 OMP defined maximal score is 1, achieved by ligands r d
+
+real	0m0.013s
+user	0m0.007s
+sys	0m0.008s
+  
+  
+./dd_omp 1 6 7 aligandstring
+max_ligand=1 nligands=6 nthreads=7 OMP defined maximal score is 1, achieved by ligands r d
+
+real	0m0.011s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 1 7 1 aligandstring
+max_ligand=1 nligands=7 nthreads=1 OMP defined maximal score is 1, achieved by ligands r d r
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.009s
+  
+  
+./dd_omp 1 7 2 aligandstring
+max_ligand=1 nligands=7 nthreads=2 OMP defined maximal score is 1, achieved by ligands r d r
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.011s
+  
+  
+./dd_omp 1 7 3 aligandstring
+max_ligand=1 nligands=7 nthreads=3 OMP defined maximal score is 1, achieved by ligands d r r
+
+real	0m0.011s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 1 7 4 aligandstring
+max_ligand=1 nligands=7 nthreads=4 OMP defined maximal score is 1, achieved by ligands r r d
+
+real	0m0.013s
+user	0m0.014s
+sys	0m0.003s
+  
+  
+./dd_omp 1 7 5 aligandstring
+max_ligand=1 nligands=7 nthreads=5 OMP defined maximal score is 1, achieved by ligands d r r
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 1 7 6 aligandstring
+max_ligand=1 nligands=7 nthreads=6 OMP defined maximal score is 1, achieved by ligands r r d
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_omp 1 7 7 aligandstring
+max_ligand=1 nligands=7 nthreads=7 OMP defined maximal score is 1, achieved by ligands r d r
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 2 1 1 aligandstring
+max_ligand=2 nligands=1 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.010s
+  
+  
+./dd_omp 2 1 2 aligandstring
+max_ligand=2 nligands=1 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_omp 2 1 3 aligandstring
+max_ligand=2 nligands=1 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_omp 2 1 4 aligandstring
+max_ligand=2 nligands=1 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.016s
+sys	0m0.000s
+  
+  
+./dd_omp 2 1 5 aligandstring
+max_ligand=2 nligands=1 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_omp 2 1 6 aligandstring
+max_ligand=2 nligands=1 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_omp 2 1 7 aligandstring
+max_ligand=2 nligands=1 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.010s
+  
+  
+./dd_omp 2 2 1 aligandstring
+max_ligand=2 nligands=2 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.010s
+sys	0m0.000s
+  
+  
+./dd_omp 2 2 2 aligandstring
+max_ligand=2 nligands=2 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.007s
+  
+  
+./dd_omp 2 2 3 aligandstring
+max_ligand=2 nligands=2 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.011s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 2 2 4 aligandstring
+max_ligand=2 nligands=2 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.010s
+sys	0m0.004s
+  
+  
+./dd_omp 2 2 5 aligandstring
+max_ligand=2 nligands=2 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_omp 2 2 6 aligandstring
+max_ligand=2 nligands=2 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 2 2 7 aligandstring
+max_ligand=2 nligands=2 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 2 3 1 aligandstring
+max_ligand=2 nligands=3 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.010s
+  
+  
+./dd_omp 2 3 2 aligandstring
+max_ligand=2 nligands=3 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 2 3 3 aligandstring
+max_ligand=2 nligands=3 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_omp 2 3 4 aligandstring
+max_ligand=2 nligands=3 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 2 3 5 aligandstring
+max_ligand=2 nligands=3 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_omp 2 3 6 aligandstring
+max_ligand=2 nligands=3 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.004s
+sys	0m0.013s
+  
+  
+./dd_omp 2 3 7 aligandstring
+max_ligand=2 nligands=3 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 2 4 1 aligandstring
+max_ligand=2 nligands=4 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.010s
+  
+  
+./dd_omp 2 4 2 aligandstring
+max_ligand=2 nligands=4 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 2 4 3 aligandstring
+max_ligand=2 nligands=4 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_omp 2 4 4 aligandstring
+max_ligand=2 nligands=4 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.022s
+  
+  
+./dd_omp 2 4 5 aligandstring
+max_ligand=2 nligands=4 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.011s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 2 4 6 aligandstring
+max_ligand=2 nligands=4 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 2 4 7 aligandstring
+max_ligand=2 nligands=4 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_omp 2 5 1 aligandstring
+max_ligand=2 nligands=5 nthreads=1 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.010s
+user	0m0.009s
+sys	0m0.001s
+  
+  
+./dd_omp 2 5 2 aligandstring
+max_ligand=2 nligands=5 nthreads=2 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_omp 2 5 3 aligandstring
+max_ligand=2 nligands=5 nthreads=3 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 2 5 4 aligandstring
+max_ligand=2 nligands=5 nthreads=4 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.015s
+user	0m0.024s
+sys	0m0.000s
+  
+  
+./dd_omp 2 5 5 aligandstring
+max_ligand=2 nligands=5 nthreads=5 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.017s
+user	0m0.016s
+sys	0m0.000s
+  
+  
+./dd_omp 2 5 6 aligandstring
+max_ligand=2 nligands=5 nthreads=6 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.018s
+user	0m0.005s
+sys	0m0.012s
+  
+  
+./dd_omp 2 5 7 aligandstring
+max_ligand=2 nligands=5 nthreads=7 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.018s
+user	0m0.005s
+sys	0m0.014s
+  
+  
+./dd_omp 2 6 1 aligandstring
+max_ligand=2 nligands=6 nthreads=1 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.009s
+  
+  
+./dd_omp 2 6 2 aligandstring
+max_ligand=2 nligands=6 nthreads=2 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.010s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_omp 2 6 3 aligandstring
+max_ligand=2 nligands=6 nthreads=3 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.010s
+user	0m0.009s
+sys	0m0.004s
+  
+  
+./dd_omp 2 6 4 aligandstring
+max_ligand=2 nligands=6 nthreads=4 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.013s
+  
+  
+./dd_omp 2 6 5 aligandstring
+max_ligand=2 nligands=6 nthreads=5 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.011s
+user	0m0.001s
+sys	0m0.013s
+  
+  
+./dd_omp 2 6 6 aligandstring
+max_ligand=2 nligands=6 nthreads=6 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.013s
+user	0m0.003s
+sys	0m0.012s
+  
+  
+./dd_omp 2 6 7 aligandstring
+max_ligand=2 nligands=6 nthreads=7 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 2 7 1 aligandstring
+max_ligand=2 nligands=7 nthreads=1 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 2 7 2 aligandstring
+max_ligand=2 nligands=7 nthreads=2 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.013s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_omp 2 7 3 aligandstring
+max_ligand=2 nligands=7 nthreads=3 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.015s
+user	0m0.019s
+sys	0m0.000s
+  
+  
+./dd_omp 2 7 4 aligandstring
+max_ligand=2 nligands=7 nthreads=4 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_omp 2 7 5 aligandstring
+max_ligand=2 nligands=7 nthreads=5 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.015s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 2 7 6 aligandstring
+max_ligand=2 nligands=7 nthreads=6 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.015s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 2 7 7 aligandstring
+max_ligand=2 nligands=7 nthreads=7 OMP defined maximal score is 2, achieved by ligands ar
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_omp 3 1 1 aligandstring
+max_ligand=3 nligands=1 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.010s
+  
+  
+./dd_omp 3 1 2 aligandstring
+max_ligand=3 nligands=1 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_omp 3 1 3 aligandstring
+max_ligand=3 nligands=1 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_omp 3 1 4 aligandstring
+max_ligand=3 nligands=1 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_omp 3 1 5 aligandstring
+max_ligand=3 nligands=1 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.016s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 3 1 6 aligandstring
+max_ligand=3 nligands=1 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.016s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 3 1 7 aligandstring
+max_ligand=3 nligands=1 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.017s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 3 2 1 aligandstring
+max_ligand=3 nligands=2 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.001s
+sys	0m0.010s
+  
+  
+./dd_omp 3 2 2 aligandstring
+max_ligand=3 nligands=2 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_omp 3 2 3 aligandstring
+max_ligand=3 nligands=2 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.012s
+  
+  
+./dd_omp 3 2 4 aligandstring
+max_ligand=3 nligands=2 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.013s
+  
+  
+./dd_omp 3 2 5 aligandstring
+max_ligand=3 nligands=2 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.011s
+  
+  
+./dd_omp 3 2 6 aligandstring
+max_ligand=3 nligands=2 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.011s
+  
+  
+./dd_omp 3 2 7 aligandstring
+max_ligand=3 nligands=2 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.001s
+sys	0m0.012s
+  
+  
+./dd_omp 3 3 1 aligandstring
+max_ligand=3 nligands=3 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_omp 3 3 2 aligandstring
+max_ligand=3 nligands=3 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.011s
+user	0m0.001s
+sys	0m0.012s
+  
+  
+./dd_omp 3 3 3 aligandstring
+max_ligand=3 nligands=3 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 3 3 4 aligandstring
+max_ligand=3 nligands=3 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.013s
+  
+  
+./dd_omp 3 3 5 aligandstring
+max_ligand=3 nligands=3 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.002s
+sys	0m0.013s
+  
+  
+./dd_omp 3 3 6 aligandstring
+max_ligand=3 nligands=3 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.017s
+sys	0m0.000s
+  
+  
+./dd_omp 3 3 7 aligandstring
+max_ligand=3 nligands=3 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.001s
+sys	0m0.017s
+  
+  
+./dd_omp 3 4 1 aligandstring
+max_ligand=3 nligands=4 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl cd
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.009s
+  
+  
+./dd_omp 3 4 2 aligandstring
+max_ligand=3 nligands=4 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl cd
+
+real	0m0.010s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_omp 3 4 3 aligandstring
+max_ligand=3 nligands=4 nthreads=3 OMP defined maximal score is 1, achieved by ligands cd wl
+
+real	0m0.010s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 3 4 4 aligandstring
+max_ligand=3 nligands=4 nthreads=4 OMP defined maximal score is 1, achieved by ligands cd wl
+
+real	0m0.011s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_omp 3 4 5 aligandstring
+max_ligand=3 nligands=4 nthreads=5 OMP defined maximal score is 1, achieved by ligands cd wl
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_omp 3 4 6 aligandstring
+max_ligand=3 nligands=4 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl cd
+
+real	0m0.013s
+user	0m0.008s
+sys	0m0.008s
+  
+  
+./dd_omp 3 4 7 aligandstring
+max_ligand=3 nligands=4 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl cd
+
+real	0m0.014s
+user	0m0.017s
+sys	0m0.000s
+  
+  
+./dd_omp 3 5 1 aligandstring
+max_ligand=3 nligands=5 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_omp 3 5 2 aligandstring
+max_ligand=3 nligands=5 nthreads=2 OMP defined maximal score is 1, achieved by ligands cd wl rzo
+
+real	0m0.017s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_omp 3 5 3 aligandstring
+max_ligand=3 nligands=5 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl rzo cd
+
+real	0m0.018s
+user	0m0.005s
+sys	0m0.015s
+  
+  
+./dd_omp 3 5 4 aligandstring
+max_ligand=3 nligands=5 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.017s
+user	0m0.030s
+sys	0m0.001s
+  
+  
+./dd_omp 3 5 5 aligandstring
+max_ligand=3 nligands=5 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.016s
+user	0m0.017s
+sys	0m0.001s
+  
+  
+./dd_omp 3 5 6 aligandstring
+max_ligand=3 nligands=5 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.014s
+user	0m0.017s
+sys	0m0.001s
+  
+  
+./dd_omp 3 5 7 aligandstring
+max_ligand=3 nligands=5 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl rzo cd
+
+real	0m0.019s
+user	0m0.016s
+sys	0m0.001s
+  
+  
+./dd_omp 3 6 1 aligandstring
+max_ligand=3 nligands=6 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.010s
+user	0m0.010s
+sys	0m0.001s
+  
+  
+./dd_omp 3 6 2 aligandstring
+max_ligand=3 nligands=6 nthreads=2 OMP defined maximal score is 1, achieved by ligands cd wl rzo
+
+real	0m0.010s
+user	0m0.010s
+sys	0m0.001s
+  
+  
+./dd_omp 3 6 3 aligandstring
+max_ligand=3 nligands=6 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl rzo cd
+
+real	0m0.010s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 3 6 4 aligandstring
+max_ligand=3 nligands=6 nthreads=4 OMP defined maximal score is 1, achieved by ligands rzo wl cd
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_omp 3 6 5 aligandstring
+max_ligand=3 nligands=6 nthreads=5 OMP defined maximal score is 1, achieved by ligands cd wl rzo
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 3 6 6 aligandstring
+max_ligand=3 nligands=6 nthreads=6 OMP defined maximal score is 1, achieved by ligands cd wl rzo
+
+real	0m0.015s
+user	0m0.007s
+sys	0m0.008s
+  
+  
+./dd_omp 3 6 7 aligandstring
+max_ligand=3 nligands=6 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl rzo cd
+
+real	0m0.011s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 3 7 1 aligandstring
+max_ligand=3 nligands=7 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.012s
+user	0m0.010s
+sys	0m0.001s
+  
+  
+./dd_omp 3 7 2 aligandstring
+max_ligand=3 nligands=7 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl rzo cd
+
+real	0m0.012s
+user	0m0.001s
+sys	0m0.013s
+  
+  
+./dd_omp 3 7 3 aligandstring
+max_ligand=3 nligands=7 nthreads=3 OMP defined maximal score is 1, achieved by ligands cd wl rzo
+
+real	0m0.017s
+user	0m0.008s
+sys	0m0.008s
+  
+  
+./dd_omp 3 7 4 aligandstring
+max_ligand=3 nligands=7 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl rzo cd
+
+real	0m0.017s
+user	0m0.019s
+sys	0m0.000s
+  
+  
+./dd_omp 3 7 5 aligandstring
+max_ligand=3 nligands=7 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl rzo cd
+
+real	0m0.017s
+user	0m0.001s
+sys	0m0.015s
+  
+  
+./dd_omp 3 7 6 aligandstring
+max_ligand=3 nligands=7 nthreads=6 OMP defined maximal score is 1, achieved by ligands cd wl rzo
+
+real	0m0.018s
+user	0m0.009s
+sys	0m0.009s
+  
+  
+./dd_omp 3 7 7 aligandstring
+max_ligand=3 nligands=7 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.017s
+user	0m0.000s
+sys	0m0.017s
+  
+  
+./dd_omp 4 1 1 aligandstring
+max_ligand=4 nligands=1 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.010s
+  
+  
+./dd_omp 4 1 2 aligandstring
+max_ligand=4 nligands=1 nthreads=2 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.010s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_omp 4 1 3 aligandstring
+max_ligand=4 nligands=1 nthreads=3 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 4 1 4 aligandstring
+max_ligand=4 nligands=1 nthreads=4 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.015s
+sys	0m0.000s
+  
+  
+./dd_omp 4 1 5 aligandstring
+max_ligand=4 nligands=1 nthreads=5 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_omp 4 1 6 aligandstring
+max_ligand=4 nligands=1 nthreads=6 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_omp 4 1 7 aligandstring
+max_ligand=4 nligands=1 nthreads=7 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 4 2 1 aligandstring
+max_ligand=4 nligands=2 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_omp 4 2 2 aligandstring
+max_ligand=4 nligands=2 nthreads=2 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.013s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 4 2 3 aligandstring
+max_ligand=4 nligands=2 nthreads=3 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 4 2 4 aligandstring
+max_ligand=4 nligands=2 nthreads=4 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.013s
+user	0m0.016s
+sys	0m0.001s
+  
+  
+./dd_omp 4 2 5 aligandstring
+max_ligand=4 nligands=2 nthreads=5 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 4 2 6 aligandstring
+max_ligand=4 nligands=2 nthreads=6 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 4 2 7 aligandstring
+max_ligand=4 nligands=2 nthreads=7 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 4 3 1 aligandstring
+max_ligand=4 nligands=3 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 4 3 2 aligandstring
+max_ligand=4 nligands=3 nthreads=2 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.017s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_omp 4 3 3 aligandstring
+max_ligand=4 nligands=3 nthreads=3 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.010s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 4 3 4 aligandstring
+max_ligand=4 nligands=3 nthreads=4 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.011s
+user	0m0.016s
+sys	0m0.000s
+  
+  
+./dd_omp 4 3 5 aligandstring
+max_ligand=4 nligands=3 nthreads=5 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.011s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 4 3 6 aligandstring
+max_ligand=4 nligands=3 nthreads=6 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.005s
+sys	0m0.009s
+  
+  
+./dd_omp 4 3 7 aligandstring
+max_ligand=4 nligands=3 nthreads=7 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_omp 4 4 1 aligandstring
+max_ligand=4 nligands=4 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.001s
+sys	0m0.011s
+  
+  
+./dd_omp 4 4 2 aligandstring
+max_ligand=4 nligands=4 nthreads=2 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.011s
+user	0m0.001s
+sys	0m0.012s
+  
+  
+./dd_omp 4 4 3 aligandstring
+max_ligand=4 nligands=4 nthreads=3 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.010s
+user	0m0.001s
+sys	0m0.012s
+  
+  
+./dd_omp 4 4 4 aligandstring
+max_ligand=4 nligands=4 nthreads=4 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.013s
+user	0m0.016s
+sys	0m0.000s
+  
+  
+./dd_omp 4 4 5 aligandstring
+max_ligand=4 nligands=4 nthreads=5 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.023s
+user	0m0.006s
+sys	0m0.019s
+  
+  
+./dd_omp 4 4 6 aligandstring
+max_ligand=4 nligands=4 nthreads=6 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.015s
+user	0m0.017s
+sys	0m0.000s
+  
+  
+./dd_omp 4 4 7 aligandstring
+max_ligand=4 nligands=4 nthreads=7 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.014s
+user	0m0.017s
+sys	0m0.000s
+  
+  
+./dd_omp 4 5 1 aligandstring
+max_ligand=4 nligands=5 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 4 5 2 aligandstring
+max_ligand=4 nligands=5 nthreads=2 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.015s
+user	0m0.008s
+sys	0m0.009s
+  
+  
+./dd_omp 4 5 3 aligandstring
+max_ligand=4 nligands=5 nthreads=3 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.012s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_omp 4 5 4 aligandstring
+max_ligand=4 nligands=5 nthreads=4 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.017s
+  
+  
+./dd_omp 4 5 5 aligandstring
+max_ligand=4 nligands=5 nthreads=5 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.011s
+user	0m0.009s
+sys	0m0.005s
+  
+  
+./dd_omp 4 5 6 aligandstring
+max_ligand=4 nligands=5 nthreads=6 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_omp 4 5 7 aligandstring
+max_ligand=4 nligands=5 nthreads=7 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.013s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_omp 4 6 1 aligandstring
+max_ligand=4 nligands=6 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_omp 4 6 2 aligandstring
+max_ligand=4 nligands=6 nthreads=2 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.011s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 4 6 3 aligandstring
+max_ligand=4 nligands=6 nthreads=3 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.012s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_omp 4 6 4 aligandstring
+max_ligand=4 nligands=6 nthreads=4 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.014s
+user	0m0.019s
+sys	0m0.000s
+  
+  
+./dd_omp 4 6 5 aligandstring
+max_ligand=4 nligands=6 nthreads=5 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.015s
+user	0m0.001s
+sys	0m0.017s
+  
+  
+./dd_omp 4 6 6 aligandstring
+max_ligand=4 nligands=6 nthreads=6 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.014s
+user	0m0.001s
+sys	0m0.016s
+  
+  
+./dd_omp 4 6 7 aligandstring
+max_ligand=4 nligands=6 nthreads=7 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.015s
+user	0m0.001s
+sys	0m0.017s
+  
+  
+./dd_omp 4 7 1 aligandstring
+max_ligand=4 nligands=7 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.013s
+user	0m0.001s
+sys	0m0.013s
+  
+  
+./dd_omp 4 7 2 aligandstring
+max_ligand=4 nligands=7 nthreads=2 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 4 7 3 aligandstring
+max_ligand=4 nligands=7 nthreads=3 OMP defined maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 4 7 4 aligandstring
+max_ligand=4 nligands=7 nthreads=4 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.024s
+  
+  
+./dd_omp 4 7 5 aligandstring
+max_ligand=4 nligands=7 nthreads=5 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.018s
+user	0m0.016s
+sys	0m0.001s
+  
+  
+./dd_omp 4 7 6 aligandstring
+max_ligand=4 nligands=7 nthreads=6 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.018s
+  
+  
+./dd_omp 4 7 7 aligandstring
+max_ligand=4 nligands=7 nthreads=7 OMP defined maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 5 1 1 aligandstring
+max_ligand=5 nligands=1 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.017s
+user	0m0.001s
+sys	0m0.012s
+  
+  
+./dd_omp 5 1 2 aligandstring
+max_ligand=5 nligands=1 nthreads=2 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.016s
+user	0m0.011s
+sys	0m0.005s
+  
+  
+./dd_omp 5 1 3 aligandstring
+max_ligand=5 nligands=1 nthreads=3 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.018s
+user	0m0.001s
+sys	0m0.017s
+  
+  
+./dd_omp 5 1 4 aligandstring
+max_ligand=5 nligands=1 nthreads=4 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.015s
+user	0m0.001s
+sys	0m0.022s
+  
+  
+./dd_omp 5 1 5 aligandstring
+max_ligand=5 nligands=1 nthreads=5 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.017s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_omp 5 1 6 aligandstring
+max_ligand=5 nligands=1 nthreads=6 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.018s
+user	0m0.015s
+sys	0m0.000s
+  
+  
+./dd_omp 5 1 7 aligandstring
+max_ligand=5 nligands=1 nthreads=7 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 5 2 1 aligandstring
+max_ligand=5 nligands=2 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.017s
+user	0m0.007s
+sys	0m0.007s
+  
+  
+./dd_omp 5 2 2 aligandstring
+max_ligand=5 nligands=2 nthreads=2 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.014s
+user	0m0.010s
+sys	0m0.005s
+  
+  
+./dd_omp 5 2 3 aligandstring
+max_ligand=5 nligands=2 nthreads=3 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.017s
+user	0m0.018s
+sys	0m0.000s
+  
+  
+./dd_omp 5 2 4 aligandstring
+max_ligand=5 nligands=2 nthreads=4 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.017s
+user	0m0.019s
+sys	0m0.001s
+  
+  
+./dd_omp 5 2 5 aligandstring
+max_ligand=5 nligands=2 nthreads=5 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.015s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_omp 5 2 6 aligandstring
+max_ligand=5 nligands=2 nthreads=6 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.014s
+user	0m0.001s
+sys	0m0.015s
+  
+  
+./dd_omp 5 2 7 aligandstring
+max_ligand=5 nligands=2 nthreads=7 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.016s
+user	0m0.001s
+sys	0m0.014s
+  
+  
+./dd_omp 5 3 1 aligandstring
+max_ligand=5 nligands=3 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.010s
+  
+  
+./dd_omp 5 3 2 aligandstring
+max_ligand=5 nligands=3 nthreads=2 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 5 3 3 aligandstring
+max_ligand=5 nligands=3 nthreads=3 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.010s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 5 3 4 aligandstring
+max_ligand=5 nligands=3 nthreads=4 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 5 3 5 aligandstring
+max_ligand=5 nligands=3 nthreads=5 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 5 3 6 aligandstring
+max_ligand=5 nligands=3 nthreads=6 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_omp 5 3 7 aligandstring
+max_ligand=5 nligands=3 nthreads=7 OMP defined maximal score is 2, achieved by ligands wlrb
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 5 4 1 aligandstring
+max_ligand=5 nligands=4 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_omp 5 4 2 aligandstring
+max_ligand=5 nligands=4 nthreads=2 OMP defined maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.013s
+user	0m0.005s
+sys	0m0.010s
+  
+  
+./dd_omp 5 4 3 aligandstring
+max_ligand=5 nligands=4 nthreads=3 OMP defined maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.017s
+user	0m0.018s
+sys	0m0.000s
+  
+  
+./dd_omp 5 4 4 aligandstring
+max_ligand=5 nligands=4 nthreads=4 OMP defined maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.019s
+user	0m0.000s
+sys	0m0.022s
+  
+  
+./dd_omp 5 4 5 aligandstring
+max_ligand=5 nligands=4 nthreads=5 OMP defined maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.019s
+  
+  
+./dd_omp 5 4 6 aligandstring
+max_ligand=5 nligands=4 nthreads=6 OMP defined maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 5 4 7 aligandstring
+max_ligand=5 nligands=4 nthreads=7 OMP defined maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.011s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 5 5 1 aligandstring
+max_ligand=5 nligands=5 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.010s
+  
+  
+./dd_omp 5 5 2 aligandstring
+max_ligand=5 nligands=5 nthreads=2 OMP defined maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.010s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_omp 5 5 3 aligandstring
+max_ligand=5 nligands=5 nthreads=3 OMP defined maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_omp 5 5 4 aligandstring
+max_ligand=5 nligands=5 nthreads=4 OMP defined maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.012s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_omp 5 5 5 aligandstring
+max_ligand=5 nligands=5 nthreads=5 OMP defined maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.012s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_omp 5 5 6 aligandstring
+max_ligand=5 nligands=5 nthreads=6 OMP defined maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.013s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_omp 5 5 7 aligandstring
+max_ligand=5 nligands=5 nthreads=7 OMP defined maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_omp 5 6 1 aligandstring
+max_ligand=5 nligands=6 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.010s
+  
+  
+./dd_omp 5 6 2 aligandstring
+max_ligand=5 nligands=6 nthreads=2 OMP defined maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 5 6 3 aligandstring
+max_ligand=5 nligands=6 nthreads=3 OMP defined maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.014s
+user	0m0.010s
+sys	0m0.010s
+  
+  
+./dd_omp 5 6 4 aligandstring
+max_ligand=5 nligands=6 nthreads=4 OMP defined maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.031s
+  
+  
+./dd_omp 5 6 5 aligandstring
+max_ligand=5 nligands=6 nthreads=5 OMP defined maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.015s
+user	0m0.018s
+sys	0m0.001s
+  
+  
+./dd_omp 5 6 6 aligandstring
+max_ligand=5 nligands=6 nthreads=6 OMP defined maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.015s
+user	0m0.017s
+sys	0m0.001s
+  
+  
+./dd_omp 5 6 7 aligandstring
+max_ligand=5 nligands=6 nthreads=7 OMP defined maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.017s
+user	0m0.005s
+sys	0m0.016s
+  
+  
+./dd_omp 5 7 1 aligandstring
+max_ligand=5 nligands=7 nthreads=1 OMP defined maximal score is 2, achieved by ligands wlrb arz dqs
+
+real	0m0.014s
+user	0m0.007s
+sys	0m0.008s
+  
+  
+./dd_omp 5 7 2 aligandstring
+max_ligand=5 nligands=7 nthreads=2 OMP defined maximal score is 2, achieved by ligands wlrb dqs arz
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 5 7 3 aligandstring
+max_ligand=5 nligands=7 nthreads=3 OMP defined maximal score is 2, achieved by ligands arz wlrb dqs
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 5 7 4 aligandstring
+max_ligand=5 nligands=7 nthreads=4 OMP defined maximal score is 2, achieved by ligands dqs wlrb arz
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_omp 5 7 5 aligandstring
+max_ligand=5 nligands=7 nthreads=5 OMP defined maximal score is 2, achieved by ligands wlrb arz dqs
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 5 7 6 aligandstring
+max_ligand=5 nligands=7 nthreads=6 OMP defined maximal score is 2, achieved by ligands arz wlrb dqs
+
+real	0m0.011s
+user	0m0.003s
+sys	0m0.010s
+  
+  
+./dd_omp 5 7 7 aligandstring
+max_ligand=5 nligands=7 nthreads=7 OMP defined maximal score is 2, achieved by ligands wlrb arz dqs
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_omp 6 1 1 aligandstring
+max_ligand=6 nligands=1 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.009s
+  
+  
+./dd_omp 6 1 2 aligandstring
+max_ligand=6 nligands=1 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_omp 6 1 3 aligandstring
+max_ligand=6 nligands=1 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_omp 6 1 4 aligandstring
+max_ligand=6 nligands=1 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.019s
+sys	0m0.001s
+  
+  
+./dd_omp 6 1 5 aligandstring
+max_ligand=6 nligands=1 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_omp 6 1 6 aligandstring
+max_ligand=6 nligands=1 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.006s
+sys	0m0.006s
+  
+  
+./dd_omp 6 1 7 aligandstring
+max_ligand=6 nligands=1 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.016s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 6 2 1 aligandstring
+max_ligand=6 nligands=2 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.016s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 6 2 2 aligandstring
+max_ligand=6 nligands=2 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.018s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_omp 6 2 3 aligandstring
+max_ligand=6 nligands=2 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.012s
+sys	0m0.007s
+  
+  
+./dd_omp 6 2 4 aligandstring
+max_ligand=6 nligands=2 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.019s
+user	0m0.019s
+sys	0m0.001s
+  
+  
+./dd_omp 6 2 5 aligandstring
+max_ligand=6 nligands=2 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_omp 6 2 6 aligandstring
+max_ligand=6 nligands=2 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.016s
+user	0m0.008s
+sys	0m0.009s
+  
+  
+./dd_omp 6 2 7 aligandstring
+max_ligand=6 nligands=2 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_omp 6 3 1 aligandstring
+max_ligand=6 nligands=3 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 6 3 2 aligandstring
+max_ligand=6 nligands=3 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 6 3 3 aligandstring
+max_ligand=6 nligands=3 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.011s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 6 3 4 aligandstring
+max_ligand=6 nligands=3 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 6 3 5 aligandstring
+max_ligand=6 nligands=3 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 6 3 6 aligandstring
+max_ligand=6 nligands=3 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 6 3 7 aligandstring
+max_ligand=6 nligands=3 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_omp 6 4 1 aligandstring
+max_ligand=6 nligands=4 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl qbhcd rzo
+
+real	0m0.011s
+user	0m0.005s
+sys	0m0.006s
+  
+  
+./dd_omp 6 4 2 aligandstring
+max_ligand=6 nligands=4 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl qbhcd rzo
+
+real	0m0.013s
+user	0m0.009s
+sys	0m0.005s
+  
+  
+./dd_omp 6 4 3 aligandstring
+max_ligand=6 nligands=4 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 6 4 4 aligandstring
+max_ligand=6 nligands=4 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 6 4 5 aligandstring
+max_ligand=6 nligands=4 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl qbhcd rzo
+
+real	0m0.015s
+user	0m0.007s
+sys	0m0.008s
+  
+  
+./dd_omp 6 4 6 aligandstring
+max_ligand=6 nligands=4 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.013s
+user	0m0.004s
+sys	0m0.012s
+  
+  
+./dd_omp 6 4 7 aligandstring
+max_ligand=6 nligands=4 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.014s
+user	0m0.007s
+sys	0m0.011s
+  
+  
+./dd_omp 6 5 1 aligandstring
+max_ligand=6 nligands=5 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl qbhcd rzo
+
+real	0m0.015s
+user	0m0.007s
+sys	0m0.007s
+  
+  
+./dd_omp 6 5 2 aligandstring
+max_ligand=6 nligands=5 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.013s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_omp 6 5 3 aligandstring
+max_ligand=6 nligands=5 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl qbhcd rzo
+
+real	0m0.014s
+user	0m0.016s
+sys	0m0.001s
+  
+  
+./dd_omp 6 5 4 aligandstring
+max_ligand=6 nligands=5 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.017s
+  
+  
+./dd_omp 6 5 5 aligandstring
+max_ligand=6 nligands=5 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.009s
+  
+  
+./dd_omp 6 5 6 aligandstring
+max_ligand=6 nligands=5 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.017s
+user	0m0.009s
+sys	0m0.009s
+  
+  
+./dd_omp 6 5 7 aligandstring
+max_ligand=6 nligands=5 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_omp 6 6 1 aligandstring
+max_ligand=6 nligands=6 nthreads=1 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_omp 6 6 2 aligandstring
+max_ligand=6 nligands=6 nthreads=2 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.019s
+  
+  
+./dd_omp 6 6 3 aligandstring
+max_ligand=6 nligands=6 nthreads=3 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.018s
+  
+  
+./dd_omp 6 6 4 aligandstring
+max_ligand=6 nligands=6 nthreads=4 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.016s
+user	0m0.014s
+sys	0m0.014s
+  
+  
+./dd_omp 6 6 5 aligandstring
+max_ligand=6 nligands=6 nthreads=5 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_omp 6 6 6 aligandstring
+max_ligand=6 nligands=6 nthreads=6 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_omp 6 6 7 aligandstring
+max_ligand=6 nligands=6 nthreads=7 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 6 7 1 aligandstring
+max_ligand=6 nligands=7 nthreads=1 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_omp 6 7 2 aligandstring
+max_ligand=6 nligands=7 nthreads=2 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_omp 6 7 3 aligandstring
+max_ligand=6 nligands=7 nthreads=3 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 6 7 4 aligandstring
+max_ligand=6 nligands=7 nthreads=4 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.012s
+user	0m0.004s
+sys	0m0.013s
+  
+  
+./dd_omp 6 7 5 aligandstring
+max_ligand=6 nligands=7 nthreads=5 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.012s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_omp 6 7 6 aligandstring
+max_ligand=6 nligands=7 nthreads=6 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.012s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_omp 6 7 7 aligandstring
+max_ligand=6 nligands=7 nthreads=7 OMP defined maximal score is 2, achieved by ligands yhidd
+
+real	0m0.012s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_omp 7 1 1 aligandstring
+max_ligand=7 nligands=1 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 7 1 2 aligandstring
+max_ligand=7 nligands=1 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_omp 7 1 3 aligandstring
+max_ligand=7 nligands=1 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_omp 7 1 4 aligandstring
+max_ligand=7 nligands=1 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.001s
+sys	0m0.018s
+  
+  
+./dd_omp 7 1 5 aligandstring
+max_ligand=7 nligands=1 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 7 1 6 aligandstring
+max_ligand=7 nligands=1 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_omp 7 1 7 aligandstring
+max_ligand=7 nligands=1 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_omp 7 2 1 aligandstring
+max_ligand=7 nligands=2 nthreads=1 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 7 2 2 aligandstring
+max_ligand=7 nligands=2 nthreads=2 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.016s
+user	0m0.006s
+sys	0m0.013s
+  
+  
+./dd_omp 7 2 3 aligandstring
+max_ligand=7 nligands=2 nthreads=3 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.014s
+sys	0m0.005s
+  
+  
+./dd_omp 7 2 4 aligandstring
+max_ligand=7 nligands=2 nthreads=4 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.021s
+user	0m0.000s
+sys	0m0.019s
+  
+  
+./dd_omp 7 2 5 aligandstring
+max_ligand=7 nligands=2 nthreads=5 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_omp 7 2 6 aligandstring
+max_ligand=7 nligands=2 nthreads=6 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.016s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_omp 7 2 7 aligandstring
+max_ligand=7 nligands=2 nthreads=7 OMP defined maximal score is 1, achieved by ligands wl
+
+real	0m0.019s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_omp 7 3 1 aligandstring
+max_ligand=7 nligands=3 nthreads=1 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.012s
+user	0m0.001s
+sys	0m0.011s
+  
+  
+./dd_omp 7 3 2 aligandstring
+max_ligand=7 nligands=3 nthreads=2 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.015s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_omp 7 3 3 aligandstring
+max_ligand=7 nligands=3 nthreads=3 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.019s
+  
+  
+./dd_omp 7 3 4 aligandstring
+max_ligand=7 nligands=3 nthreads=4 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.017s
+user	0m0.028s
+sys	0m0.001s
+  
+  
+./dd_omp 7 3 5 aligandstring
+max_ligand=7 nligands=3 nthreads=5 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_omp 7 3 6 aligandstring
+max_ligand=7 nligands=3 nthreads=6 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.014s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_omp 7 3 7 aligandstring
+max_ligand=7 nligands=3 nthreads=7 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_omp 7 4 1 aligandstring
+max_ligand=7 nligands=4 nthreads=1 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.019s
+user	0m0.018s
+sys	0m0.001s
+  
+  
+./dd_omp 7 4 2 aligandstring
+max_ligand=7 nligands=4 nthreads=2 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.018s
+user	0m0.023s
+sys	0m0.001s
+  
+  
+./dd_omp 7 4 3 aligandstring
+max_ligand=7 nligands=4 nthreads=3 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.020s
+user	0m0.024s
+sys	0m0.001s
+  
+  
+./dd_omp 7 4 4 aligandstring
+max_ligand=7 nligands=4 nthreads=4 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.015s
+user	0m0.017s
+sys	0m0.009s
+  
+  
+./dd_omp 7 4 5 aligandstring
+max_ligand=7 nligands=4 nthreads=5 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.022s
+user	0m0.010s
+sys	0m0.011s
+  
+  
+./dd_omp 7 4 6 aligandstring
+max_ligand=7 nligands=4 nthreads=6 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.018s
+user	0m0.022s
+sys	0m0.001s
+  
+  
+./dd_omp 7 4 7 aligandstring
+max_ligand=7 nligands=4 nthreads=7 OMP defined maximal score is 2, achieved by ligands dar
+
+real	0m0.018s
+user	0m0.006s
+sys	0m0.015s
+  
+  
+./dd_omp 7 5 1 aligandstring
+max_ligand=7 nligands=5 nthreads=1 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.021s
+user	0m0.022s
+sys	0m0.000s
+  
+  
+./dd_omp 7 5 2 aligandstring
+max_ligand=7 nligands=5 nthreads=2 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.017s
+user	0m0.015s
+sys	0m0.008s
+  
+  
+./dd_omp 7 5 3 aligandstring
+max_ligand=7 nligands=5 nthreads=3 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.017s
+user	0m0.024s
+sys	0m0.000s
+  
+  
+./dd_omp 7 5 4 aligandstring
+max_ligand=7 nligands=5 nthreads=4 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.021s
+user	0m0.017s
+sys	0m0.017s
+  
+  
+./dd_omp 7 5 5 aligandstring
+max_ligand=7 nligands=5 nthreads=5 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.017s
+user	0m0.010s
+sys	0m0.010s
+  
+  
+./dd_omp 7 5 6 aligandstring
+max_ligand=7 nligands=5 nthreads=6 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.026s
+user	0m0.011s
+sys	0m0.011s
+  
+  
+./dd_omp 7 5 7 aligandstring
+max_ligand=7 nligands=5 nthreads=7 OMP defined maximal score is 2, achieved by ligands dqscdx dar
+
+real	0m0.017s
+user	0m0.011s
+sys	0m0.011s
+  
+  
+./dd_omp 7 6 1 aligandstring
+max_ligand=7 nligands=6 nthreads=1 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.022s
+user	0m0.011s
+sys	0m0.011s
+  
+  
+./dd_omp 7 6 2 aligandstring
+max_ligand=7 nligands=6 nthreads=2 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.020s
+user	0m0.000s
+sys	0m0.025s
+  
+  
+./dd_omp 7 6 3 aligandstring
+max_ligand=7 nligands=6 nthreads=3 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.019s
+user	0m0.019s
+sys	0m0.007s
+  
+  
+./dd_omp 7 6 4 aligandstring
+max_ligand=7 nligands=6 nthreads=4 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.020s
+user	0m0.034s
+sys	0m0.001s
+  
+  
+./dd_omp 7 6 5 aligandstring
+max_ligand=7 nligands=6 nthreads=5 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.017s
+user	0m0.000s
+sys	0m0.023s
+  
+  
+./dd_omp 7 6 6 aligandstring
+max_ligand=7 nligands=6 nthreads=6 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.021s
+user	0m0.023s
+sys	0m0.001s
+  
+  
+./dd_omp 7 6 7 aligandstring
+max_ligand=7 nligands=6 nthreads=7 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.022s
+user	0m0.000s
+sys	0m0.025s
+  
+  
+./dd_omp 7 7 1 aligandstring
+max_ligand=7 nligands=7 nthreads=1 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.022s
+user	0m0.020s
+sys	0m0.001s
+  
+  
+./dd_omp 7 7 2 aligandstring
+max_ligand=7 nligands=7 nthreads=2 OMP defined maximal score is 2, achieved by ligands dqscdx dar
+
+real	0m0.020s
+user	0m0.025s
+sys	0m0.000s
+  
+  
+./dd_omp 7 7 3 aligandstring
+max_ligand=7 nligands=7 nthreads=3 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.018s
+user	0m0.019s
+sys	0m0.007s
+  
+  
+./dd_omp 7 7 4 aligandstring
+max_ligand=7 nligands=7 nthreads=4 OMP defined maximal score is 2, achieved by ligands dqscdx dar
+
+real	0m0.016s
+user	0m0.029s
+sys	0m0.001s
+  
+  
+./dd_omp 7 7 5 aligandstring
+max_ligand=7 nligands=7 nthreads=5 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.022s
+user	0m0.014s
+sys	0m0.008s
+  
+  
+./dd_omp 7 7 6 aligandstring
+max_ligand=7 nligands=7 nthreads=6 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.025s
+  
+  
+./dd_omp 7 7 7 aligandstring
+max_ligand=7 nligands=7 nthreads=7 OMP defined maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.016s
+user	0m0.016s
+sys	0m0.007s
+  
+  
+./dd_threads 1 1 1 aligandstring
+max_ligand=1 nligands=1 nthreads=1 maximal score is 0, achieved by ligands w
+
+real	0m0.011s
+user	0m0.010s
+sys	0m0.001s
+  
+  
+./dd_threads 1 1 2 aligandstring
+max_ligand=1 nligands=1 nthreads=2 maximal score is 0, achieved by ligands w
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 1 1 3 aligandstring
+max_ligand=1 nligands=1 nthreads=3 maximal score is 0, achieved by ligands w
+
+real	0m0.015s
+user	0m0.006s
+sys	0m0.007s
+  
+  
+./dd_threads 1 1 4 aligandstring
+max_ligand=1 nligands=1 nthreads=4 maximal score is 0, achieved by ligands w
+
+real	0m0.014s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 1 1 5 aligandstring
+max_ligand=1 nligands=1 nthreads=5 maximal score is 0, achieved by ligands w
+
+real	0m0.017s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 1 1 6 aligandstring
+max_ligand=1 nligands=1 nthreads=6 maximal score is 0, achieved by ligands w
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 1 1 7 aligandstring
+max_ligand=1 nligands=1 nthreads=7 maximal score is 0, achieved by ligands w
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 1 2 1 aligandstring
+max_ligand=1 nligands=2 nthreads=1 maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.010s
+sys	0m0.001s
+  
+  
+./dd_threads 1 2 2 aligandstring
+max_ligand=1 nligands=2 nthreads=2 maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 1 2 3 aligandstring
+max_ligand=1 nligands=2 nthreads=3 maximal score is 1, achieved by ligands r
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 1 2 4 aligandstring
+max_ligand=1 nligands=2 nthreads=4 maximal score is 1, achieved by ligands r
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 1 2 5 aligandstring
+max_ligand=1 nligands=2 nthreads=5 maximal score is 1, achieved by ligands r
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 1 2 6 aligandstring
+max_ligand=1 nligands=2 nthreads=6 maximal score is 1, achieved by ligands r
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 1 2 7 aligandstring
+max_ligand=1 nligands=2 nthreads=7 maximal score is 1, achieved by ligands r
+
+real	0m0.014s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 1 3 1 aligandstring
+max_ligand=1 nligands=3 nthreads=1 maximal score is 1, achieved by ligands r
+
+real	0m0.013s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 1 3 2 aligandstring
+max_ligand=1 nligands=3 nthreads=2 maximal score is 1, achieved by ligands r
+
+real	0m0.014s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 1 3 3 aligandstring
+max_ligand=1 nligands=3 nthreads=3 maximal score is 1, achieved by ligands r
+
+real	0m0.012s
+user	0m0.006s
+sys	0m0.007s
+  
+  
+./dd_threads 1 3 4 aligandstring
+max_ligand=1 nligands=3 nthreads=4 maximal score is 1, achieved by ligands r
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 1 3 5 aligandstring
+max_ligand=1 nligands=3 nthreads=5 maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 1 3 6 aligandstring
+max_ligand=1 nligands=3 nthreads=6 maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 1 3 7 aligandstring
+max_ligand=1 nligands=3 nthreads=7 maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 1 4 1 aligandstring
+max_ligand=1 nligands=4 nthreads=1 maximal score is 1, achieved by ligands r
+
+real	0m0.013s
+user	0m0.006s
+sys	0m0.007s
+  
+  
+./dd_threads 1 4 2 aligandstring
+max_ligand=1 nligands=4 nthreads=2 maximal score is 1, achieved by ligands r
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 1 4 3 aligandstring
+max_ligand=1 nligands=4 nthreads=3 maximal score is 1, achieved by ligands r
+
+real	0m0.010s
+user	0m0.010s
+sys	0m0.001s
+  
+  
+./dd_threads 1 4 4 aligandstring
+max_ligand=1 nligands=4 nthreads=4 maximal score is 1, achieved by ligands r
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 1 4 5 aligandstring
+max_ligand=1 nligands=4 nthreads=5 maximal score is 1, achieved by ligands r
+
+real	0m0.019s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 1 4 6 aligandstring
+max_ligand=1 nligands=4 nthreads=6 maximal score is 1, achieved by ligands r
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 1 4 7 aligandstring
+max_ligand=1 nligands=4 nthreads=7 maximal score is 1, achieved by ligands r
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 1 5 1 aligandstring
+max_ligand=1 nligands=5 nthreads=1 maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_threads 1 5 2 aligandstring
+max_ligand=1 nligands=5 nthreads=2 maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 1 5 3 aligandstring
+max_ligand=1 nligands=5 nthreads=3 maximal score is 1, achieved by ligands r
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 1 5 4 aligandstring
+max_ligand=1 nligands=5 nthreads=4 maximal score is 1, achieved by ligands r
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 1 5 5 aligandstring
+max_ligand=1 nligands=5 nthreads=5 maximal score is 1, achieved by ligands r
+
+real	0m0.013s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 1 5 6 aligandstring
+max_ligand=1 nligands=5 nthreads=6 maximal score is 1, achieved by ligands r
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 1 5 7 aligandstring
+max_ligand=1 nligands=5 nthreads=7 maximal score is 1, achieved by ligands r
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 1 6 1 aligandstring
+max_ligand=1 nligands=6 nthreads=1 maximal score is 1, achieved by ligands r d
+
+real	0m0.011s
+user	0m0.001s
+sys	0m0.010s
+  
+  
+./dd_threads 1 6 2 aligandstring
+max_ligand=1 nligands=6 nthreads=2 maximal score is 1, achieved by ligands r d
+
+real	0m0.010s
+user	0m0.010s
+sys	0m0.000s
+  
+  
+./dd_threads 1 6 3 aligandstring
+max_ligand=1 nligands=6 nthreads=3 maximal score is 1, achieved by ligands r d
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_threads 1 6 4 aligandstring
+max_ligand=1 nligands=6 nthreads=4 maximal score is 1, achieved by ligands r d
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 1 6 5 aligandstring
+max_ligand=1 nligands=6 nthreads=5 maximal score is 1, achieved by ligands r d
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 1 6 6 aligandstring
+max_ligand=1 nligands=6 nthreads=6 maximal score is 1, achieved by ligands r d
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 1 6 7 aligandstring
+max_ligand=1 nligands=6 nthreads=7 maximal score is 1, achieved by ligands r d
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 1 7 1 aligandstring
+max_ligand=1 nligands=7 nthreads=1 maximal score is 1, achieved by ligands r d r
+
+real	0m0.011s
+user	0m0.010s
+sys	0m0.001s
+  
+  
+./dd_threads 1 7 2 aligandstring
+max_ligand=1 nligands=7 nthreads=2 maximal score is 1, achieved by ligands r d r
+
+real	0m0.013s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 1 7 3 aligandstring
+max_ligand=1 nligands=7 nthreads=3 maximal score is 1, achieved by ligands r d r
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 1 7 4 aligandstring
+max_ligand=1 nligands=7 nthreads=4 maximal score is 1, achieved by ligands r d r
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 1 7 5 aligandstring
+max_ligand=1 nligands=7 nthreads=5 maximal score is 1, achieved by ligands r d r
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 1 7 6 aligandstring
+max_ligand=1 nligands=7 nthreads=6 maximal score is 1, achieved by ligands r d r
+
+real	0m0.029s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 1 7 7 aligandstring
+max_ligand=1 nligands=7 nthreads=7 maximal score is 1, achieved by ligands r d r
+
+real	0m0.014s
+user	0m0.001s
+sys	0m0.014s
+  
+  
+./dd_threads 2 1 1 aligandstring
+max_ligand=2 nligands=1 nthreads=1 maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 2 1 2 aligandstring
+max_ligand=2 nligands=1 nthreads=2 maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_threads 2 1 3 aligandstring
+max_ligand=2 nligands=1 nthreads=3 maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 2 1 4 aligandstring
+max_ligand=2 nligands=1 nthreads=4 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 2 1 5 aligandstring
+max_ligand=2 nligands=1 nthreads=5 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 2 1 6 aligandstring
+max_ligand=2 nligands=1 nthreads=6 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 2 1 7 aligandstring
+max_ligand=2 nligands=1 nthreads=7 maximal score is 1, achieved by ligands wl
+
+real	0m0.017s
+user	0m0.000s
+sys	0m0.017s
+  
+  
+./dd_threads 2 2 1 aligandstring
+max_ligand=2 nligands=2 nthreads=1 maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 2 2 2 aligandstring
+max_ligand=2 nligands=2 nthreads=2 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.005s
+sys	0m0.010s
+  
+  
+./dd_threads 2 2 3 aligandstring
+max_ligand=2 nligands=2 nthreads=3 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 2 2 4 aligandstring
+max_ligand=2 nligands=2 nthreads=4 maximal score is 1, achieved by ligands wl
+
+real	0m0.020s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 2 2 5 aligandstring
+max_ligand=2 nligands=2 nthreads=5 maximal score is 1, achieved by ligands wl
+
+real	0m0.018s
+user	0m0.015s
+sys	0m0.000s
+  
+  
+./dd_threads 2 2 6 aligandstring
+max_ligand=2 nligands=2 nthreads=6 maximal score is 1, achieved by ligands wl
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 2 2 7 aligandstring
+max_ligand=2 nligands=2 nthreads=7 maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.016s
+sys	0m0.001s
+  
+  
+./dd_threads 2 3 1 aligandstring
+max_ligand=2 nligands=3 nthreads=1 maximal score is 1, achieved by ligands wl
+
+real	0m0.017s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 2 3 2 aligandstring
+max_ligand=2 nligands=3 nthreads=2 maximal score is 1, achieved by ligands wl
+
+real	0m0.017s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 2 3 3 aligandstring
+max_ligand=2 nligands=3 nthreads=3 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 2 3 4 aligandstring
+max_ligand=2 nligands=3 nthreads=4 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 2 3 5 aligandstring
+max_ligand=2 nligands=3 nthreads=5 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_threads 2 3 6 aligandstring
+max_ligand=2 nligands=3 nthreads=6 maximal score is 1, achieved by ligands wl
+
+real	0m0.011s
+user	0m0.001s
+sys	0m0.012s
+  
+  
+./dd_threads 2 3 7 aligandstring
+max_ligand=2 nligands=3 nthreads=7 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.006s
+  
+  
+./dd_threads 2 4 1 aligandstring
+max_ligand=2 nligands=4 nthreads=1 maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.001s
+sys	0m0.012s
+  
+  
+./dd_threads 2 4 2 aligandstring
+max_ligand=2 nligands=4 nthreads=2 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 2 4 3 aligandstring
+max_ligand=2 nligands=4 nthreads=3 maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 2 4 4 aligandstring
+max_ligand=2 nligands=4 nthreads=4 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 2 4 5 aligandstring
+max_ligand=2 nligands=4 nthreads=5 maximal score is 1, achieved by ligands wl
+
+real	0m0.016s
+user	0m0.006s
+sys	0m0.007s
+  
+  
+./dd_threads 2 4 6 aligandstring
+max_ligand=2 nligands=4 nthreads=6 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.006s
+  
+  
+./dd_threads 2 4 7 aligandstring
+max_ligand=2 nligands=4 nthreads=7 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.006s
+  
+  
+./dd_threads 2 5 1 aligandstring
+max_ligand=2 nligands=5 nthreads=1 maximal score is 2, achieved by ligands ar
+
+real	0m0.011s
+user	0m0.001s
+sys	0m0.010s
+  
+  
+./dd_threads 2 5 2 aligandstring
+max_ligand=2 nligands=5 nthreads=2 maximal score is 2, achieved by ligands ar
+
+real	0m0.012s
+user	0m0.001s
+sys	0m0.011s
+  
+  
+./dd_threads 2 5 3 aligandstring
+max_ligand=2 nligands=5 nthreads=3 maximal score is 2, achieved by ligands ar
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 2 5 4 aligandstring
+max_ligand=2 nligands=5 nthreads=4 maximal score is 2, achieved by ligands ar
+
+real	0m0.014s
+user	0m0.007s
+sys	0m0.008s
+  
+  
+./dd_threads 2 5 5 aligandstring
+max_ligand=2 nligands=5 nthreads=5 maximal score is 2, achieved by ligands ar
+
+real	0m0.021s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 2 5 6 aligandstring
+max_ligand=2 nligands=5 nthreads=6 maximal score is 2, achieved by ligands ar
+
+real	0m0.014s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 2 5 7 aligandstring
+max_ligand=2 nligands=5 nthreads=7 maximal score is 2, achieved by ligands ar
+
+real	0m0.017s
+user	0m0.008s
+sys	0m0.009s
+  
+  
+./dd_threads 2 6 1 aligandstring
+max_ligand=2 nligands=6 nthreads=1 maximal score is 2, achieved by ligands ar
+
+real	0m0.014s
+user	0m0.007s
+sys	0m0.007s
+  
+  
+./dd_threads 2 6 2 aligandstring
+max_ligand=2 nligands=6 nthreads=2 maximal score is 2, achieved by ligands ar
+
+real	0m0.016s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 2 6 3 aligandstring
+max_ligand=2 nligands=6 nthreads=3 maximal score is 2, achieved by ligands ar
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 2 6 4 aligandstring
+max_ligand=2 nligands=6 nthreads=4 maximal score is 2, achieved by ligands ar
+
+real	0m0.013s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 2 6 5 aligandstring
+max_ligand=2 nligands=6 nthreads=5 maximal score is 2, achieved by ligands ar
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 2 6 6 aligandstring
+max_ligand=2 nligands=6 nthreads=6 maximal score is 2, achieved by ligands ar
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 2 6 7 aligandstring
+max_ligand=2 nligands=6 nthreads=7 maximal score is 2, achieved by ligands ar
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 2 7 1 aligandstring
+max_ligand=2 nligands=7 nthreads=1 maximal score is 2, achieved by ligands ar
+
+real	0m0.013s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 2 7 2 aligandstring
+max_ligand=2 nligands=7 nthreads=2 maximal score is 2, achieved by ligands ar
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 2 7 3 aligandstring
+max_ligand=2 nligands=7 nthreads=3 maximal score is 2, achieved by ligands ar
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 2 7 4 aligandstring
+max_ligand=2 nligands=7 nthreads=4 maximal score is 2, achieved by ligands ar
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 2 7 5 aligandstring
+max_ligand=2 nligands=7 nthreads=5 maximal score is 2, achieved by ligands ar
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 2 7 6 aligandstring
+max_ligand=2 nligands=7 nthreads=6 maximal score is 2, achieved by ligands ar
+
+real	0m0.015s
+user	0m0.016s
+sys	0m0.000s
+  
+  
+./dd_threads 2 7 7 aligandstring
+max_ligand=2 nligands=7 nthreads=7 maximal score is 2, achieved by ligands ar
+
+real	0m0.019s
+user	0m0.007s
+sys	0m0.008s
+  
+  
+./dd_threads 3 1 1 aligandstring
+max_ligand=3 nligands=1 nthreads=1 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 3 1 2 aligandstring
+max_ligand=3 nligands=1 nthreads=2 maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 3 1 3 aligandstring
+max_ligand=3 nligands=1 nthreads=3 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 3 1 4 aligandstring
+max_ligand=3 nligands=1 nthreads=4 maximal score is 1, achieved by ligands wl
+
+real	0m0.017s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 3 1 5 aligandstring
+max_ligand=3 nligands=1 nthreads=5 maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 3 1 6 aligandstring
+max_ligand=3 nligands=1 nthreads=6 maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 3 1 7 aligandstring
+max_ligand=3 nligands=1 nthreads=7 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.007s
+sys	0m0.008s
+  
+  
+./dd_threads 3 2 1 aligandstring
+max_ligand=3 nligands=2 nthreads=1 maximal score is 1, achieved by ligands wl
+
+real	0m0.020s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 3 2 2 aligandstring
+max_ligand=3 nligands=2 nthreads=2 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 3 2 3 aligandstring
+max_ligand=3 nligands=2 nthreads=3 maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 3 2 4 aligandstring
+max_ligand=3 nligands=2 nthreads=4 maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 3 2 5 aligandstring
+max_ligand=3 nligands=2 nthreads=5 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 3 2 6 aligandstring
+max_ligand=3 nligands=2 nthreads=6 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_threads 3 2 7 aligandstring
+max_ligand=3 nligands=2 nthreads=7 maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 3 3 1 aligandstring
+max_ligand=3 nligands=3 nthreads=1 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 3 3 2 aligandstring
+max_ligand=3 nligands=3 nthreads=2 maximal score is 1, achieved by ligands wl
+
+real	0m0.016s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 3 3 3 aligandstring
+max_ligand=3 nligands=3 nthreads=3 maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 3 3 4 aligandstring
+max_ligand=3 nligands=3 nthreads=4 maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.001s
+sys	0m0.011s
+  
+  
+./dd_threads 3 3 5 aligandstring
+max_ligand=3 nligands=3 nthreads=5 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.001s
+sys	0m0.012s
+  
+  
+./dd_threads 3 3 6 aligandstring
+max_ligand=3 nligands=3 nthreads=6 maximal score is 1, achieved by ligands wl
+
+real	0m0.018s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 3 3 7 aligandstring
+max_ligand=3 nligands=3 nthreads=7 maximal score is 1, achieved by ligands wl
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.017s
+  
+  
+./dd_threads 3 4 1 aligandstring
+max_ligand=3 nligands=4 nthreads=1 maximal score is 1, achieved by ligands wl cd
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_threads 3 4 2 aligandstring
+max_ligand=3 nligands=4 nthreads=2 maximal score is 1, achieved by ligands wl cd
+
+real	0m0.017s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 3 4 3 aligandstring
+max_ligand=3 nligands=4 nthreads=3 maximal score is 1, achieved by ligands wl cd
+
+real	0m0.018s
+user	0m0.007s
+sys	0m0.008s
+  
+  
+./dd_threads 3 4 4 aligandstring
+max_ligand=3 nligands=4 nthreads=4 maximal score is 1, achieved by ligands wl cd
+
+real	0m0.014s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 3 4 5 aligandstring
+max_ligand=3 nligands=4 nthreads=5 maximal score is 1, achieved by ligands wl cd
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 3 4 6 aligandstring
+max_ligand=3 nligands=4 nthreads=6 maximal score is 1, achieved by ligands wl cd
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 3 4 7 aligandstring
+max_ligand=3 nligands=4 nthreads=7 maximal score is 1, achieved by ligands wl cd
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 3 5 1 aligandstring
+max_ligand=3 nligands=5 nthreads=1 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.011s
+user	0m0.010s
+sys	0m0.001s
+  
+  
+./dd_threads 3 5 2 aligandstring
+max_ligand=3 nligands=5 nthreads=2 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 3 5 3 aligandstring
+max_ligand=3 nligands=5 nthreads=3 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_threads 3 5 4 aligandstring
+max_ligand=3 nligands=5 nthreads=4 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_threads 3 5 5 aligandstring
+max_ligand=3 nligands=5 nthreads=5 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.014s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 3 5 6 aligandstring
+max_ligand=3 nligands=5 nthreads=6 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.014s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 3 5 7 aligandstring
+max_ligand=3 nligands=5 nthreads=7 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.014s
+user	0m0.001s
+sys	0m0.014s
+  
+  
+./dd_threads 3 6 1 aligandstring
+max_ligand=3 nligands=6 nthreads=1 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_threads 3 6 2 aligandstring
+max_ligand=3 nligands=6 nthreads=2 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.014s
+user	0m0.001s
+sys	0m0.014s
+  
+  
+./dd_threads 3 6 3 aligandstring
+max_ligand=3 nligands=6 nthreads=3 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.012s
+user	0m0.001s
+sys	0m0.011s
+  
+  
+./dd_threads 3 6 4 aligandstring
+max_ligand=3 nligands=6 nthreads=4 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 3 6 5 aligandstring
+max_ligand=3 nligands=6 nthreads=5 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 3 6 6 aligandstring
+max_ligand=3 nligands=6 nthreads=6 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 3 6 7 aligandstring
+max_ligand=3 nligands=6 nthreads=7 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_threads 3 7 1 aligandstring
+max_ligand=3 nligands=7 nthreads=1 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.010s
+user	0m0.009s
+sys	0m0.000s
+  
+  
+./dd_threads 3 7 2 aligandstring
+max_ligand=3 nligands=7 nthreads=2 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.010s
+user	0m0.010s
+sys	0m0.000s
+  
+  
+./dd_threads 3 7 3 aligandstring
+max_ligand=3 nligands=7 nthreads=3 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 3 7 4 aligandstring
+max_ligand=3 nligands=7 nthreads=4 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 3 7 5 aligandstring
+max_ligand=3 nligands=7 nthreads=5 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.016s
+user	0m0.016s
+sys	0m0.001s
+  
+  
+./dd_threads 3 7 6 aligandstring
+max_ligand=3 nligands=7 nthreads=6 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 3 7 7 aligandstring
+max_ligand=3 nligands=7 nthreads=7 maximal score is 1, achieved by ligands wl cd rzo
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 4 1 1 aligandstring
+max_ligand=4 nligands=1 nthreads=1 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.010s
+sys	0m0.001s
+  
+  
+./dd_threads 4 1 2 aligandstring
+max_ligand=4 nligands=1 nthreads=2 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_threads 4 1 3 aligandstring
+max_ligand=4 nligands=1 nthreads=3 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 4 1 4 aligandstring
+max_ligand=4 nligands=1 nthreads=4 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 4 1 5 aligandstring
+max_ligand=4 nligands=1 nthreads=5 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.016s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 4 1 6 aligandstring
+max_ligand=4 nligands=1 nthreads=6 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_threads 4 1 7 aligandstring
+max_ligand=4 nligands=1 nthreads=7 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.017s
+user	0m0.001s
+sys	0m0.013s
+  
+  
+./dd_threads 4 2 1 aligandstring
+max_ligand=4 nligands=2 nthreads=1 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.010s
+  
+  
+./dd_threads 4 2 2 aligandstring
+max_ligand=4 nligands=2 nthreads=2 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.010s
+user	0m0.010s
+sys	0m0.000s
+  
+  
+./dd_threads 4 2 3 aligandstring
+max_ligand=4 nligands=2 nthreads=3 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 4 2 4 aligandstring
+max_ligand=4 nligands=2 nthreads=4 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 4 2 5 aligandstring
+max_ligand=4 nligands=2 nthreads=5 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 4 2 6 aligandstring
+max_ligand=4 nligands=2 nthreads=6 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 4 2 7 aligandstring
+max_ligand=4 nligands=2 nthreads=7 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 4 3 1 aligandstring
+max_ligand=4 nligands=3 nthreads=1 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 4 3 2 aligandstring
+max_ligand=4 nligands=3 nthreads=2 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 4 3 3 aligandstring
+max_ligand=4 nligands=3 nthreads=3 maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.018s
+user	0m0.008s
+sys	0m0.007s
+  
+  
+./dd_threads 4 3 4 aligandstring
+max_ligand=4 nligands=3 nthreads=4 maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.019s
+user	0m0.001s
+sys	0m0.014s
+  
+  
+./dd_threads 4 3 5 aligandstring
+max_ligand=4 nligands=3 nthreads=5 maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.016s
+user	0m0.001s
+sys	0m0.014s
+  
+  
+./dd_threads 4 3 6 aligandstring
+max_ligand=4 nligands=3 nthreads=6 maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.015s
+user	0m0.008s
+sys	0m0.007s
+  
+  
+./dd_threads 4 3 7 aligandstring
+max_ligand=4 nligands=3 nthreads=7 maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 4 4 1 aligandstring
+max_ligand=4 nligands=4 nthreads=1 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.001s
+sys	0m0.011s
+  
+  
+./dd_threads 4 4 2 aligandstring
+max_ligand=4 nligands=4 nthreads=2 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_threads 4 4 3 aligandstring
+max_ligand=4 nligands=4 nthreads=3 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_threads 4 4 4 aligandstring
+max_ligand=4 nligands=4 nthreads=4 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_threads 4 4 5 aligandstring
+max_ligand=4 nligands=4 nthreads=5 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 4 4 6 aligandstring
+max_ligand=4 nligands=4 nthreads=6 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 4 4 7 aligandstring
+max_ligand=4 nligands=4 nthreads=7 maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.015s
+user	0m0.016s
+sys	0m0.001s
+  
+  
+./dd_threads 4 5 1 aligandstring
+max_ligand=4 nligands=5 nthreads=1 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.013s
+user	0m0.006s
+sys	0m0.007s
+  
+  
+./dd_threads 4 5 2 aligandstring
+max_ligand=4 nligands=5 nthreads=2 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 4 5 3 aligandstring
+max_ligand=4 nligands=5 nthreads=3 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.013s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_threads 4 5 4 aligandstring
+max_ligand=4 nligands=5 nthreads=4 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.014s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_threads 4 5 5 aligandstring
+max_ligand=4 nligands=5 nthreads=5 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 4 5 6 aligandstring
+max_ligand=4 nligands=5 nthreads=6 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_threads 4 5 7 aligandstring
+max_ligand=4 nligands=5 nthreads=7 maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.007s
+  
+  
+./dd_threads 4 6 1 aligandstring
+max_ligand=4 nligands=6 nthreads=1 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_threads 4 6 2 aligandstring
+max_ligand=4 nligands=6 nthreads=2 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_threads 4 6 3 aligandstring
+max_ligand=4 nligands=6 nthreads=3 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 4 6 4 aligandstring
+max_ligand=4 nligands=6 nthreads=4 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 4 6 5 aligandstring
+max_ligand=4 nligands=6 nthreads=5 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 4 6 6 aligandstring
+max_ligand=4 nligands=6 nthreads=6 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 4 6 7 aligandstring
+max_ligand=4 nligands=6 nthreads=7 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 4 7 1 aligandstring
+max_ligand=4 nligands=7 nthreads=1 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 4 7 2 aligandstring
+max_ligand=4 nligands=7 nthreads=2 maximal score is 2, achieved by ligands wlrb dar
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 4 7 3 aligandstring
+max_ligand=4 nligands=7 nthreads=3 maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_threads 4 7 4 aligandstring
+max_ligand=4 nligands=7 nthreads=4 maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.015s
+user	0m0.001s
+sys	0m0.015s
+  
+  
+./dd_threads 4 7 5 aligandstring
+max_ligand=4 nligands=7 nthreads=5 maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.018s
+user	0m0.010s
+sys	0m0.005s
+  
+  
+./dd_threads 4 7 6 aligandstring
+max_ligand=4 nligands=7 nthreads=6 maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.015s
+user	0m0.007s
+sys	0m0.006s
+  
+  
+./dd_threads 4 7 7 aligandstring
+max_ligand=4 nligands=7 nthreads=7 maximal score is 2, achieved by ligands dar wlrb
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.008s
+  
+  
+./dd_threads 5 1 1 aligandstring
+max_ligand=5 nligands=1 nthreads=1 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.001s
+sys	0m0.010s
+  
+  
+./dd_threads 5 1 2 aligandstring
+max_ligand=5 nligands=1 nthreads=2 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_threads 5 1 3 aligandstring
+max_ligand=5 nligands=1 nthreads=3 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_threads 5 1 4 aligandstring
+max_ligand=5 nligands=1 nthreads=4 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 5 1 5 aligandstring
+max_ligand=5 nligands=1 nthreads=5 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.014s
+user	0m0.007s
+sys	0m0.007s
+  
+  
+./dd_threads 5 1 6 aligandstring
+max_ligand=5 nligands=1 nthreads=6 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 5 1 7 aligandstring
+max_ligand=5 nligands=1 nthreads=7 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_threads 5 2 1 aligandstring
+max_ligand=5 nligands=2 nthreads=1 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 5 2 2 aligandstring
+max_ligand=5 nligands=2 nthreads=2 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_threads 5 2 3 aligandstring
+max_ligand=5 nligands=2 nthreads=3 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.004s
+sys	0m0.008s
+  
+  
+./dd_threads 5 2 4 aligandstring
+max_ligand=5 nligands=2 nthreads=4 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 5 2 5 aligandstring
+max_ligand=5 nligands=2 nthreads=5 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 5 2 6 aligandstring
+max_ligand=5 nligands=2 nthreads=6 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 5 2 7 aligandstring
+max_ligand=5 nligands=2 nthreads=7 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 5 3 1 aligandstring
+max_ligand=5 nligands=3 nthreads=1 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.011s
+user	0m0.001s
+sys	0m0.010s
+  
+  
+./dd_threads 5 3 2 aligandstring
+max_ligand=5 nligands=3 nthreads=2 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.015s
+user	0m0.001s
+sys	0m0.010s
+  
+  
+./dd_threads 5 3 3 aligandstring
+max_ligand=5 nligands=3 nthreads=3 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.001s
+sys	0m0.011s
+  
+  
+./dd_threads 5 3 4 aligandstring
+max_ligand=5 nligands=3 nthreads=4 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.013s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_threads 5 3 5 aligandstring
+max_ligand=5 nligands=3 nthreads=5 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.013s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_threads 5 3 6 aligandstring
+max_ligand=5 nligands=3 nthreads=6 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 5 3 7 aligandstring
+max_ligand=5 nligands=3 nthreads=7 maximal score is 2, achieved by ligands wlrb
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 5 4 1 aligandstring
+max_ligand=5 nligands=4 nthreads=1 maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_threads 5 4 2 aligandstring
+max_ligand=5 nligands=4 nthreads=2 maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 5 4 3 aligandstring
+max_ligand=5 nligands=4 nthreads=3 maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 5 4 4 aligandstring
+max_ligand=5 nligands=4 nthreads=4 maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.019s
+user	0m0.019s
+sys	0m0.001s
+  
+  
+./dd_threads 5 4 5 aligandstring
+max_ligand=5 nligands=4 nthreads=5 maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_threads 5 4 6 aligandstring
+max_ligand=5 nligands=4 nthreads=6 maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 5 4 7 aligandstring
+max_ligand=5 nligands=4 nthreads=7 maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_threads 5 5 1 aligandstring
+max_ligand=5 nligands=5 nthreads=1 maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 5 5 2 aligandstring
+max_ligand=5 nligands=5 nthreads=2 maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 5 5 3 aligandstring
+max_ligand=5 nligands=5 nthreads=3 maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.013s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 5 5 4 aligandstring
+max_ligand=5 nligands=5 nthreads=4 maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_threads 5 5 5 aligandstring
+max_ligand=5 nligands=5 nthreads=5 maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 5 5 6 aligandstring
+max_ligand=5 nligands=5 nthreads=6 maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.015s
+user	0m0.008s
+sys	0m0.009s
+  
+  
+./dd_threads 5 5 7 aligandstring
+max_ligand=5 nligands=5 nthreads=7 maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.008s
+  
+  
+./dd_threads 5 6 1 aligandstring
+max_ligand=5 nligands=6 nthreads=1 maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.017s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_threads 5 6 2 aligandstring
+max_ligand=5 nligands=6 nthreads=2 maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 5 6 3 aligandstring
+max_ligand=5 nligands=6 nthreads=3 maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 5 6 4 aligandstring
+max_ligand=5 nligands=6 nthreads=4 maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.016s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 5 6 5 aligandstring
+max_ligand=5 nligands=6 nthreads=5 maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.020s
+user	0m0.007s
+sys	0m0.008s
+  
+  
+./dd_threads 5 6 6 aligandstring
+max_ligand=5 nligands=6 nthreads=6 maximal score is 2, achieved by ligands arz wlrb
+
+real	0m0.019s
+user	0m0.007s
+sys	0m0.008s
+  
+  
+./dd_threads 5 6 7 aligandstring
+max_ligand=5 nligands=6 nthreads=7 maximal score is 2, achieved by ligands wlrb arz
+
+real	0m0.015s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 5 7 1 aligandstring
+max_ligand=5 nligands=7 nthreads=1 maximal score is 2, achieved by ligands wlrb arz dqs
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 5 7 2 aligandstring
+max_ligand=5 nligands=7 nthreads=2 maximal score is 2, achieved by ligands wlrb arz dqs
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 5 7 3 aligandstring
+max_ligand=5 nligands=7 nthreads=3 maximal score is 2, achieved by ligands arz wlrb dqs
+
+real	0m0.014s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 5 7 4 aligandstring
+max_ligand=5 nligands=7 nthreads=4 maximal score is 2, achieved by ligands arz wlrb dqs
+
+real	0m0.015s
+user	0m0.001s
+sys	0m0.015s
+  
+  
+./dd_threads 5 7 5 aligandstring
+max_ligand=5 nligands=7 nthreads=5 maximal score is 2, achieved by ligands arz wlrb dqs
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.009s
+  
+  
+./dd_threads 5 7 6 aligandstring
+max_ligand=5 nligands=7 nthreads=6 maximal score is 2, achieved by ligands arz wlrb dqs
+
+real	0m0.015s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 5 7 7 aligandstring
+max_ligand=5 nligands=7 nthreads=7 maximal score is 2, achieved by ligands arz wlrb dqs
+
+real	0m0.015s
+user	0m0.016s
+sys	0m0.001s
+  
+  
+./dd_threads 6 1 1 aligandstring
+max_ligand=6 nligands=1 nthreads=1 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_threads 6 1 2 aligandstring
+max_ligand=6 nligands=1 nthreads=2 maximal score is 1, achieved by ligands wl
+
+real	0m0.018s
+user	0m0.007s
+sys	0m0.006s
+  
+  
+./dd_threads 6 1 3 aligandstring
+max_ligand=6 nligands=1 nthreads=3 maximal score is 1, achieved by ligands wl
+
+real	0m0.019s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 6 1 4 aligandstring
+max_ligand=6 nligands=1 nthreads=4 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 6 1 5 aligandstring
+max_ligand=6 nligands=1 nthreads=5 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 6 1 6 aligandstring
+max_ligand=6 nligands=1 nthreads=6 maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 6 1 7 aligandstring
+max_ligand=6 nligands=1 nthreads=7 maximal score is 1, achieved by ligands wl
+
+real	0m0.017s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 6 2 1 aligandstring
+max_ligand=6 nligands=2 nthreads=1 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 6 2 2 aligandstring
+max_ligand=6 nligands=2 nthreads=2 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.001s
+  
+  
+./dd_threads 6 2 3 aligandstring
+max_ligand=6 nligands=2 nthreads=3 maximal score is 1, achieved by ligands wl
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 6 2 4 aligandstring
+max_ligand=6 nligands=2 nthreads=4 maximal score is 1, achieved by ligands wl
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 6 2 5 aligandstring
+max_ligand=6 nligands=2 nthreads=5 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 6 2 6 aligandstring
+max_ligand=6 nligands=2 nthreads=6 maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 6 2 7 aligandstring
+max_ligand=6 nligands=2 nthreads=7 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 6 3 1 aligandstring
+max_ligand=6 nligands=3 nthreads=1 maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.014s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 6 3 2 aligandstring
+max_ligand=6 nligands=3 nthreads=2 maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 6 3 3 aligandstring
+max_ligand=6 nligands=3 nthreads=3 maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.020s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 6 3 4 aligandstring
+max_ligand=6 nligands=3 nthreads=4 maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.018s
+user	0m0.007s
+sys	0m0.007s
+  
+  
+./dd_threads 6 3 5 aligandstring
+max_ligand=6 nligands=3 nthreads=5 maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.017s
+user	0m0.016s
+sys	0m0.001s
+  
+  
+./dd_threads 6 3 6 aligandstring
+max_ligand=6 nligands=3 nthreads=6 maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.015s
+user	0m0.001s
+sys	0m0.014s
+  
+  
+./dd_threads 6 3 7 aligandstring
+max_ligand=6 nligands=3 nthreads=7 maximal score is 1, achieved by ligands wl qbhcd
+
+real	0m0.014s
+user	0m0.008s
+sys	0m0.008s
+  
+  
+./dd_threads 6 4 1 aligandstring
+max_ligand=6 nligands=4 nthreads=1 maximal score is 1, achieved by ligands wl qbhcd rzo
+
+real	0m0.015s
+user	0m0.007s
+sys	0m0.007s
+  
+  
+./dd_threads 6 4 2 aligandstring
+max_ligand=6 nligands=4 nthreads=2 maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 6 4 3 aligandstring
+max_ligand=6 nligands=4 nthreads=3 maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 6 4 4 aligandstring
+max_ligand=6 nligands=4 nthreads=4 maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 6 4 5 aligandstring
+max_ligand=6 nligands=4 nthreads=5 maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 6 4 6 aligandstring
+max_ligand=6 nligands=4 nthreads=6 maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 6 4 7 aligandstring
+max_ligand=6 nligands=4 nthreads=7 maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 6 5 1 aligandstring
+max_ligand=6 nligands=5 nthreads=1 maximal score is 1, achieved by ligands wl qbhcd rzo
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.011s
+  
+  
+./dd_threads 6 5 2 aligandstring
+max_ligand=6 nligands=5 nthreads=2 maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.000s
+  
+  
+./dd_threads 6 5 3 aligandstring
+max_ligand=6 nligands=5 nthreads=3 maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.014s
+  
+  
+./dd_threads 6 5 4 aligandstring
+max_ligand=6 nligands=5 nthreads=4 maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 6 5 5 aligandstring
+max_ligand=6 nligands=5 nthreads=5 maximal score is 1, achieved by ligands wl qbhcd rzo
+
+real	0m0.012s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 6 5 6 aligandstring
+max_ligand=6 nligands=5 nthreads=6 maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.014s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 6 5 7 aligandstring
+max_ligand=6 nligands=5 nthreads=7 maximal score is 1, achieved by ligands wl rzo qbhcd
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.016s
+  
+  
+./dd_threads 6 6 1 aligandstring
+max_ligand=6 nligands=6 nthreads=1 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.013s
+user	0m0.006s
+sys	0m0.007s
+  
+  
+./dd_threads 6 6 2 aligandstring
+max_ligand=6 nligands=6 nthreads=2 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 6 6 3 aligandstring
+max_ligand=6 nligands=6 nthreads=3 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.011s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 6 6 4 aligandstring
+max_ligand=6 nligands=6 nthreads=4 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.011s
+user	0m0.000s
+sys	0m0.013s
+  
+  
+./dd_threads 6 6 5 aligandstring
+max_ligand=6 nligands=6 nthreads=5 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.014s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 6 6 6 aligandstring
+max_ligand=6 nligands=6 nthreads=6 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.014s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 6 6 7 aligandstring
+max_ligand=6 nligands=6 nthreads=7 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.014s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 6 7 1 aligandstring
+max_ligand=6 nligands=7 nthreads=1 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.014s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 6 7 2 aligandstring
+max_ligand=6 nligands=7 nthreads=2 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.014s
+user	0m0.015s
+sys	0m0.001s
+  
+  
+./dd_threads 6 7 3 aligandstring
+max_ligand=6 nligands=7 nthreads=3 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.015s
+  
+  
+./dd_threads 6 7 4 aligandstring
+max_ligand=6 nligands=7 nthreads=4 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.015s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 6 7 5 aligandstring
+max_ligand=6 nligands=7 nthreads=5 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.015s
+user	0m0.009s
+sys	0m0.009s
+  
+  
+./dd_threads 6 7 6 aligandstring
+max_ligand=6 nligands=7 nthreads=6 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.015s
+user	0m0.006s
+sys	0m0.013s
+  
+  
+./dd_threads 6 7 7 aligandstring
+max_ligand=6 nligands=7 nthreads=7 maximal score is 2, achieved by ligands yhidd
+
+real	0m0.015s
+user	0m0.018s
+sys	0m0.001s
+  
+  
+./dd_threads 7 1 1 aligandstring
+max_ligand=7 nligands=1 nthreads=1 maximal score is 1, achieved by ligands wl
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 7 1 2 aligandstring
+max_ligand=7 nligands=1 nthreads=2 maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.012s
+  
+  
+./dd_threads 7 1 3 aligandstring
+max_ligand=7 nligands=1 nthreads=3 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.012s
+sys	0m0.000s
+  
+  
+./dd_threads 7 1 4 aligandstring
+max_ligand=7 nligands=1 nthreads=4 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.012s
+sys	0m0.001s
+  
+  
+./dd_threads 7 1 5 aligandstring
+max_ligand=7 nligands=1 nthreads=5 maximal score is 1, achieved by ligands wl
+
+real	0m0.018s
+user	0m0.006s
+sys	0m0.007s
+  
+  
+./dd_threads 7 1 6 aligandstring
+max_ligand=7 nligands=1 nthreads=6 maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 7 1 7 aligandstring
+max_ligand=7 nligands=1 nthreads=7 maximal score is 1, achieved by ligands wl
+
+real	0m0.018s
+user	0m0.009s
+sys	0m0.010s
+  
+  
+./dd_threads 7 2 1 aligandstring
+max_ligand=7 nligands=2 nthreads=1 maximal score is 1, achieved by ligands wl
+
+real	0m0.016s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_threads 7 2 2 aligandstring
+max_ligand=7 nligands=2 nthreads=2 maximal score is 1, achieved by ligands wl
+
+real	0m0.014s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 7 2 3 aligandstring
+max_ligand=7 nligands=2 nthreads=3 maximal score is 1, achieved by ligands wl
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.001s
+  
+  
+./dd_threads 7 2 4 aligandstring
+max_ligand=7 nligands=2 nthreads=4 maximal score is 1, achieved by ligands wl
+
+real	0m0.018s
+user	0m0.014s
+sys	0m0.001s
+  
+  
+./dd_threads 7 2 5 aligandstring
+max_ligand=7 nligands=2 nthreads=5 maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.016s
+sys	0m0.000s
+  
+  
+./dd_threads 7 2 6 aligandstring
+max_ligand=7 nligands=2 nthreads=6 maximal score is 1, achieved by ligands wl
+
+real	0m0.016s
+user	0m0.017s
+sys	0m0.000s
+  
+  
+./dd_threads 7 2 7 aligandstring
+max_ligand=7 nligands=2 nthreads=7 maximal score is 1, achieved by ligands wl
+
+real	0m0.015s
+user	0m0.017s
+sys	0m0.000s
+  
+  
+./dd_threads 7 3 1 aligandstring
+max_ligand=7 nligands=3 nthreads=1 maximal score is 2, achieved by ligands dar
+
+real	0m0.014s
+user	0m0.013s
+sys	0m0.000s
+  
+  
+./dd_threads 7 3 2 aligandstring
+max_ligand=7 nligands=3 nthreads=2 maximal score is 2, achieved by ligands dar
+
+real	0m0.014s
+user	0m0.006s
+sys	0m0.007s
+  
+  
+./dd_threads 7 3 3 aligandstring
+max_ligand=7 nligands=3 nthreads=3 maximal score is 2, achieved by ligands dar
+
+real	0m0.016s
+user	0m0.014s
+sys	0m0.000s
+  
+  
+./dd_threads 7 3 4 aligandstring
+max_ligand=7 nligands=3 nthreads=4 maximal score is 2, achieved by ligands dar
+
+real	0m0.016s
+user	0m0.009s
+sys	0m0.009s
+  
+  
+./dd_threads 7 3 5 aligandstring
+max_ligand=7 nligands=3 nthreads=5 maximal score is 2, achieved by ligands dar
+
+real	0m0.016s
+user	0m0.012s
+sys	0m0.006s
+  
+  
+./dd_threads 7 3 6 aligandstring
+max_ligand=7 nligands=3 nthreads=6 maximal score is 2, achieved by ligands dar
+
+real	0m0.017s
+user	0m0.000s
+sys	0m0.017s
+  
+  
+./dd_threads 7 3 7 aligandstring
+max_ligand=7 nligands=3 nthreads=7 maximal score is 2, achieved by ligands dar
+
+real	0m0.017s
+user	0m0.009s
+sys	0m0.009s
+  
+  
+./dd_threads 7 4 1 aligandstring
+max_ligand=7 nligands=4 nthreads=1 maximal score is 2, achieved by ligands dar
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.010s
+  
+  
+./dd_threads 7 4 2 aligandstring
+max_ligand=7 nligands=4 nthreads=2 maximal score is 2, achieved by ligands dar
+
+real	0m0.016s
+user	0m0.009s
+sys	0m0.009s
+  
+  
+./dd_threads 7 4 3 aligandstring
+max_ligand=7 nligands=4 nthreads=3 maximal score is 2, achieved by ligands dar
+
+real	0m0.018s
+user	0m0.010s
+sys	0m0.010s
+  
+  
+./dd_threads 7 4 4 aligandstring
+max_ligand=7 nligands=4 nthreads=4 maximal score is 2, achieved by ligands dar
+
+real	0m0.018s
+user	0m0.010s
+sys	0m0.011s
+  
+  
+./dd_threads 7 4 5 aligandstring
+max_ligand=7 nligands=4 nthreads=5 maximal score is 2, achieved by ligands dar
+
+real	0m0.019s
+user	0m0.021s
+sys	0m0.001s
+  
+  
+./dd_threads 7 4 6 aligandstring
+max_ligand=7 nligands=4 nthreads=6 maximal score is 2, achieved by ligands dar
+
+real	0m0.016s
+user	0m0.013s
+sys	0m0.007s
+  
+  
+./dd_threads 7 4 7 aligandstring
+max_ligand=7 nligands=4 nthreads=7 maximal score is 2, achieved by ligands dar
+
+real	0m0.021s
+user	0m0.019s
+sys	0m0.000s
+  
+  
+./dd_threads 7 5 1 aligandstring
+max_ligand=7 nligands=5 nthreads=1 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.022s
+user	0m0.011s
+sys	0m0.010s
+  
+  
+./dd_threads 7 5 2 aligandstring
+max_ligand=7 nligands=5 nthreads=2 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.016s
+user	0m0.019s
+sys	0m0.000s
+  
+  
+./dd_threads 7 5 3 aligandstring
+max_ligand=7 nligands=5 nthreads=3 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.018s
+user	0m0.021s
+sys	0m0.000s
+  
+  
+./dd_threads 7 5 4 aligandstring
+max_ligand=7 nligands=5 nthreads=4 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.018s
+user	0m0.023s
+sys	0m0.000s
+  
+  
+./dd_threads 7 5 5 aligandstring
+max_ligand=7 nligands=5 nthreads=5 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.017s
+user	0m0.000s
+sys	0m0.020s
+  
+  
+./dd_threads 7 5 6 aligandstring
+max_ligand=7 nligands=5 nthreads=6 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.017s
+user	0m0.010s
+sys	0m0.010s
+  
+  
+./dd_threads 7 5 7 aligandstring
+max_ligand=7 nligands=5 nthreads=7 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.018s
+user	0m0.019s
+sys	0m0.001s
+  
+  
+./dd_threads 7 6 1 aligandstring
+max_ligand=7 nligands=6 nthreads=1 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.023s
+user	0m0.020s
+sys	0m0.001s
+  
+  
+./dd_threads 7 6 2 aligandstring
+max_ligand=7 nligands=6 nthreads=2 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.022s
+user	0m0.012s
+sys	0m0.012s
+  
+  
+./dd_threads 7 6 3 aligandstring
+max_ligand=7 nligands=6 nthreads=3 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.022s
+user	0m0.000s
+sys	0m0.024s
+  
+  
+./dd_threads 7 6 4 aligandstring
+max_ligand=7 nligands=6 nthreads=4 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.016s
+user	0m0.021s
+sys	0m0.001s
+  
+  
+./dd_threads 7 6 5 aligandstring
+max_ligand=7 nligands=6 nthreads=5 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.020s
+user	0m0.000s
+sys	0m0.024s
+  
+  
+./dd_threads 7 6 6 aligandstring
+max_ligand=7 nligands=6 nthreads=6 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.020s
+user	0m0.023s
+sys	0m0.001s
+  
+  
+./dd_threads 7 6 7 aligandstring
+max_ligand=7 nligands=6 nthreads=7 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.017s
+user	0m0.021s
+sys	0m0.001s
+  
+  
+./dd_threads 7 7 1 aligandstring
+max_ligand=7 nligands=7 nthreads=1 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.021s
+user	0m0.010s
+sys	0m0.011s
+  
+  
+./dd_threads 7 7 2 aligandstring
+max_ligand=7 nligands=7 nthreads=2 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.019s
+user	0m0.011s
+sys	0m0.012s
+  
+  
+./dd_threads 7 7 3 aligandstring
+max_ligand=7 nligands=7 nthreads=3 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.016s
+user	0m0.010s
+sys	0m0.011s
+  
+  
+./dd_threads 7 7 4 aligandstring
+max_ligand=7 nligands=7 nthreads=4 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.032s
+user	0m0.014s
+sys	0m0.028s
+  
+  
+./dd_threads 7 7 5 aligandstring
+max_ligand=7 nligands=7 nthreads=5 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.028s
+user	0m0.029s
+sys	0m0.011s
+  
+  
+./dd_threads 7 7 6 aligandstring
+max_ligand=7 nligands=7 nthreads=6 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.021s
+  
+  
+./dd_threads 7 7 7 aligandstring
+max_ligand=7 nligands=7 nthreads=7 maximal score is 2, achieved by ligands dar dqscdx
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.022s
+  
+  
